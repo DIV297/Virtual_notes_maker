@@ -1,6 +1,6 @@
 ## Google-Hackathon
 ## Project Name:- Automated Notes Maker
-## Description:-  we have developed a product through which you can make notes from offline audio/video file of any formate.We have used AWS services to share converted 
+### Description:-  we have developed a product through which you can make notes from offline audio/video file of any formate.We have used AWS services to share converted 
                  file via EMAIl.we built this project majorly for the description given by doctors and also our software can be used for various things ex- co-operate meet.
                  Both Speech-To_text and Text-to-speech ,along with our live recording feature, are there in our software for the retention of our customer and offcourse for
                  various type of applications. Document Summarizer is also there.Extension For transcription is also one of our key feature in our software which suport multiple language
