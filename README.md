@@ -8,6 +8,7 @@
 ## Technical Stack:-  Python,HTML,CSS,javascript,AWS
 ## Theme Of Project:- Open Innovation
 ## Live URL:- https://live-speech2text.netlify.app/
+## Link For Our App:- https://get.massive.app/01GC393VSE29PAXN6W1TEYTPG8?secret=IGxvAKWVnxgVCypi
 ## (Note:- we need to deploy our app first which takes time that's why we have given wweb app link only.You can check our python repo for the app code)
 
 ## Team Details
