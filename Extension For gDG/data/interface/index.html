@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+		<title>Speech 2 Text (Bug Aches)</title>
+		<link type="text/css" rel="stylesheet" href="index.css">
+		<link href="#" rel="icon" type="image/ico">
+		<meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+  </head>
+  <body>
+    <div class="toolbar">
+      <table>
+        <tr>
+          <td id="reload" title="Reload UI">
+          </td>
+        </tr>
+        <tr>
+          <td id="support" title="Open support page">
+          </td>
+        </tr>
+        <tr>
+          <td id="donation" title="Make a donation">
+          </td>
+        </tr>
+      </table>
+		</div>
+    <div class="container">
+      <div class="results">
+        <span class="final" id="final" contenteditable="true"></span>
+				<span class="interim" id="interim"></span>
+      </div>
+      <div class="console">
+        <pre id="info"></pre>
+      </div>
+    </div>
+    <div class="buttons">
+      <table>
+        <tr>
+          <td class="start">
+            <button id="start">
+              <img alt="start" id="talk" src="images/mic.png">
+            </button>
+          </td>
+          <td class="settings">
+            <select id="language"></select>
+            <select id="dialect"></select>
+          </td>
+        </tr>
+        <tr>
+        
+
+        </tr>
+      </table>
+    </div>
+    <!-- -->
+		<script type="text/javascript" src="index.js"></script>
+		<script type="text/javascript" src="resources/language.js"></script>
+  </body>
+</html>
