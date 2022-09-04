@@ -24,3 +24,6 @@
 # Extra Info about Project
 
 # Use speechRecognition of python to covert speech to text and text-to-speech both. Also used many modules for accuracy and aws services 
+
+## Link Of video of our software
+## link :- https://drive.google.com/drive/folders/1b1cE9LLp2w6OfVFwesw-7xLLAQZpHWln
