@@ -849,7 +849,7 @@ def texttoSummary():
                 text=lines[1]
                 # print("Text hai\n")
                 # print(text)
-                if(len(text)>=3681):
+                if(len(text)>=3):
                 
 
                     print("Summaray : 3")
